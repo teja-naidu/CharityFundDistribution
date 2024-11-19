@@ -25,13 +25,13 @@ Clone the project into your local machine using the following command:
 ```bash
 git clone https://github.com/teja-naidu/CharityFundDistribution.git
 
-###2. Install Dependencies
+2. Install Dependencies
 Navigate to the project folder and install the required Node.js modules:
 '''bash
 cd CharityFundDistribution
 npm install
 
-###3. Compile and Deploy the Contracts
+3. Compile and Deploy the Contracts
 Use the Truffle framework to compile and deploy the smart contracts:
 '''bash
 truffle compile
