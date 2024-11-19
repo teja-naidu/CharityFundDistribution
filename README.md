@@ -20,7 +20,7 @@ This project is a blockchain-based charity fund distribution system that leverag
 
 ## Setup Process
 
-### 1. Clone the Repository
+1. Clone the Repository
 Clone the project into your local machine using the following command:
 ```bash
 git clone https://github.com/teja-naidu/CharityFundDistribution.git
